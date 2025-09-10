@@ -1,4 +1,4 @@
-## Framgia's coding standard
+## Coding standard
 
 ### [日本語](./ja/README.md)
 
