@@ -1,4 +1,4 @@
-# Các quy định về viết code ở công ty Framgia
+# Các quy định về viết code
 
 ## Ruby
 
